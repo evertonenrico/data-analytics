@@ -64,3 +64,8 @@ return
 ```
 
 <img src="https://i.ibb.co/DQZRNT4/TELA-001.png" alt="Tela de Notas e Médias" border="0">
+
+<b>Comparativo da Média Aluno x Turma</b>
+
+<img src="https://i.ibb.co/m0Lj1g7/TELA-002.png" alt="Tela de Média do Aluno x Turma" border="0">
+
