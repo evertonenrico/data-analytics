@@ -69,3 +69,7 @@ return
 
 <img src="https://i.ibb.co/m0Lj1g7/TELA-002.png" alt="Tela de Média do Aluno x Turma" border="0">
 
+<b>Relatório de alunos abaixo da média escolar</b>
+<img src="https://i.ibb.co/8YK1v3X/TELA-003.png" alt="Tela de Média do Aluno x Turma" border="0">
+
+
